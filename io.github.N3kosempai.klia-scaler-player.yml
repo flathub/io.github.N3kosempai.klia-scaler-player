@@ -20,6 +20,6 @@ modules:
       - cp -a share/. /app/share/
     sources:
       - type: archive
-        url: https://github.com/N3koSempai/klia-scaler-player/releases/download/v1.4.0/klia-scaler-player-1.4.0-x86_64.tar.gz
-        sha256: 73ee16230ce1a34ab2104e141871866a6bd54623fb4f575ca7ba50437ff5d0d0
+        url: https://github.com/N3koSempai/klia-scaler-player/releases/download/v1.5.0/klia-scaler-player-1.5.0-x86_64.tar.gz
+        sha256: 903e6aadaeea044607bf71d4495c7032233587f5b316c2b4b7f2ec21d88154dc
         strip-components: 0
